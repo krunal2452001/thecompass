@@ -1,6 +1,6 @@
 # thecompass
 
-The attitute behing creating this system is to ......
+The attitute behind creating this system is to ......
 
 The file "Data Set.csv" is the data set which is used to predict, train and analysis of our outcomes.
 
