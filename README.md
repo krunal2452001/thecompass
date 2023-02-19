@@ -1,6 +1,6 @@
 # thecompass
 
-The attitute behind creating this system is to ......
+The attitute behind creating this system is to guide and help students in making proper selection of university
 
 The file "Data Set.csv" is the data set which is used to predict, train and analysis of our outcomes.
 
